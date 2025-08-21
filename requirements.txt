@@ -1,0 +1,10 @@
+pandas
+numpy
+pyyaml
+python-dotenv
+sqlalchemy
+psycopg2-binary
+requests
+loguru
+prophet
+scikit-learn
